@@ -98,3 +98,20 @@ button:hover {
     color: green;
 }
 
+#footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+#footer p {
+    margin: 0;
+}
+
+#footer a {
+    margin-left: 0.25rem;
+}
